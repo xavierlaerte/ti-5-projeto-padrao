@@ -59,9 +59,9 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 	4.1. Cenários <br />
 	4.2. Avaliação <br />
 
-5. [Referências](#referencias REFERÊNCIAS "Referências")<br />
+5. [Referências](#referencias "REFERÊNCIAS")<br />
 
-6. [Apêndices](#apendices APÊNDICES "Apêndices")<br />
+6. [Apêndices](#apendices "APÊNDICES")<br />
 
 
 <a name="apresentacao"></a>
