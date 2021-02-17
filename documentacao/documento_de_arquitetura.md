@@ -39,20 +39,20 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## SUMÁRIO
 
-1. [Apresentação](#apresentacao "Apresentação")
-	1.1. Problema
-	1.2. Objetivos do trabalho
-	1.3. Definições e Abreviaturas
-2. [Requisitos](#requisitos "Requisitos")
-'	2.1. Requisitos Funcionais
-	2.2. Requisitos Não-Funcionais
-	2.3. Restrições Arquiteturais
-	2.4. Mecanismos Arquiteturais
+1. [Apresentação](#apresentacao "Apresentação") <br />
+	1.1. Problema <br />
+	1.2. Objetivos do trabalho <br />
+	1.3. Definições e Abreviaturas <br />
+2. [Requisitos](#requisitos "Requisitos") <br />
+'	2.1. Requisitos Funcionais <br />
+	2.2. Requisitos Não-Funcionais <br />
+	2.3. Restrições Arquiteturais <br />
+	2.4. Mecanismos Arquiteturais <br />
 
-3. [Modelagem](#modelagem "Modelagem e projeto arquitetural")
-	3.1. Visão de Negócio
-	3.2. Visão Lógica
-	3.3. Modelo de dados (opcional)
+3. [Modelagem](#modelagem "Modelagem e projeto arquitetural") <br />
+	3.1. Visão de Negócio <br />
+	3.2. Visão Lógica <br />
+	3.3. Modelo de dados (opcional) <br />
 
 4. [Avaliação](#avaliacao "Avaliação da Arquitetura")
 	4.1. Cenários
