@@ -43,6 +43,7 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 	1.1. Problema <br />
 	1.2. Objetivos do trabalho <br />
 	1.3. Definições e Abreviaturas <br />
+
 2. [Requisitos](#requisitos "Requisitos") <br />
 '	2.1. Requisitos Funcionais <br />
 	2.2. Requisitos Não-Funcionais <br />
@@ -54,13 +55,13 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 	3.2. Visão Lógica <br />
 	3.3. Modelo de dados (opcional) <br />
 
-4. [Avaliação](#avaliacao "Avaliação da Arquitetura")
-	4.1. Cenários
-	4.2. Avaliação
+4. [Avaliação](#avaliacao "Avaliação da Arquitetura") <br />
+	4.1. Cenários <br />
+	4.2. Avaliação <br />
 
-5. REFERÊNCIAS
+5. [Referências](#referencias REFERÊNCIAS "Referências")<br />
 
-6. APÊNDICES
+6. [Apêndices](#apendices APÊNDICES "Apêndices")<br />
 
 
 <a name="apresentacao"></a>
@@ -271,6 +272,7 @@ Evidências dos testes realizados
 
 _Apresente imagens, descreva os testes de tal forma que se comprove a realização da avaliação._
 
+<a name="referencias"></a>
 # 5. REFERÊNCIAS
 
 _Como um projeto da arquitetura de uma aplicação não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso você deseje incluir referências relacionadas às tecnologias, padrões, ou metodologias que serão usadas no seu trabalho, relacione-as de acordo com a ABNT._
@@ -291,6 +293,7 @@ http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
 **[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
 
 
+<a name="apendices"></a>
 # 6. APÊNDICES
 
 _Inclua o URL do repositório (Github, Bitbucket, etc) onde você armazenou o código da sua prova de conceito/protótipo arquitetural da aplicação como anexos. A inclusão da URL desse repositório de código servirá como base para garantir a autenticidade dos trabalhos._
